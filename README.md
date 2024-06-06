@@ -43,7 +43,7 @@
     <div class="column-noidat">
         <!-- Nội thất -->
         <h2>Nội thất</h2>
-        <p>Mô tả về nội thất của bạn ở đây...</p>
+        <p>đẹp vàchaats lượng.</p>
     </div>
 
     <div class="column-remcua">
